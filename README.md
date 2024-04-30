@@ -1,7 +1,7 @@
 # Cognify_ML_project
 # Restaurant Data Analysis Project
 
-This project aims to analyze restaurant data and perform various tasks including predicting restaurant ratings, creating a restaurant recommendation system, and conducting a geographical analysis of restaurants.
+This project aims to analyze restaurant data and perform various tasks including predicting restaurant ratings, creating a restaurant recommendation system, and conducting a geographical analysis of restaurants.This was completed as a part of cognify internship 2024
 
 ## Task 1: Predict Restaurant Ratings
 
